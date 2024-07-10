@@ -1,4 +1,4 @@
-### PT-BR
+### 🌐 PT-BR
 #### [en-US](https://github.com/ArthurFakhouri/NLW-Journey-Server-Node/blob/master/READMEENGLISH.md)
 
 <h1 align="center">
