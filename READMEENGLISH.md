@@ -44,5 +44,5 @@ The project was developed using the following technologies:
 - [Nodemailer](https://nodemailer.com)
 - [Typescript](https://www.typescriptlang.org)
 
-## :memo: Licença
+## :memo: LICENSE
 This project is under the MIT license. Consult the [LICENSE](LICENSE) for details.
