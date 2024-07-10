@@ -1,4 +1,4 @@
-### EN-US  
+### 🌐 EN-US  
 #### [pt-BR](https://github.com/ArthurFakhouri/NLW-Journey-Server-Node/blob/master/README.md)
 
 <h1 align="center">
