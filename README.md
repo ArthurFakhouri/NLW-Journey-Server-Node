@@ -29,3 +29,17 @@ npm run db:migrate
 
 ### Executar o Prisma Studio
 npm run db:studio
+
+## 🚀 Tecnologias
+
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
+
+- [Node](https://nodejs.org)
+- [Fastify](https://fastify.dev)
+- [Zod](https://zod.dev)
+- [Prisma](https://www.prisma.io)
+- [Nodemailer](https://nodemailer.com)
+- [Typescript](https://www.typescriptlang.org)
+
+## :memo: Licença
+Este projeto está sob a licença do MIT. Consulte a [LICENÇA](LICENSE) para obter detalhes.
