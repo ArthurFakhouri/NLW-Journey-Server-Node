@@ -15,11 +15,12 @@ import { getTripDetails } from "./routes/get-trip-details";
 import { getParticipant } from "./routes/get-participant";
 import { errorHandler } from "./error-handler";
 import { env } from "./env";
+import { removeParticipantFromTrip } from "./routes/remove-participant-from-trip";
 
 const app = fastify()
 
 app.register(cors, {
-  origin: 'http://localhost:3000',
+  origin: env.WEB_BASE_URL,
 })
 
 app.setValidatorCompiler(validatorCompiler);
@@ -34,6 +35,7 @@ app.register(getTripDetails)
 app.register(confirmParticipant)
 app.register(getParticipants)
 app.register(getParticipant)
+app.register(removeParticipantFromTrip)
 app.register(createActivity)
 app.register(getActivity)
 app.register(createLink)
