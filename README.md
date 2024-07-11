@@ -1,5 +1,5 @@
 ### 🌐 PT-BR
-#### [en-US](https://github.com/ArthurFakhouri/NLW-Journey-Server-Node/blob/master/READMEENGLISH.md)
+#### [en-US](https://github.com/ArthurFakhouri/NLW-Journey-Server-Node/blob/master/READMEENUS.md)
 
 <h1 align="center">
     <img alt="plann.er logo" title="#NLW-Journey-Logo" src=".github/logo.svg" width="250px" />
