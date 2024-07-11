@@ -14,6 +14,7 @@ The project is a desktop website to create travel plans with friends, record act
 - [ ✔ ] The application must be able to update the trip;
 - [ ✔ ] The application must be able to confirm the trip;
 - [ ✔ ] The application must be able to confirm the participant on the trip;
+- [ ✔ ] The application must be able to remove the participant from the trip;
 - [ ✔ ] The application must be able to create links;
 - [ ✔ ] The application must be able to view the links;
 - [ ✔ ] The application must be able to create activities;
