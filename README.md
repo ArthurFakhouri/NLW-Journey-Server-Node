@@ -14,6 +14,7 @@ O projeto é um site desktop para montar planos de viagem com amigos, registrar 
 - [ ✔ ] A aplicação deve poder atualizar a viagem;
 - [ ✔ ] A aplicação deve poder confirmar a viagem;
 - [ ✔ ] A aplicação deve poder confirmar o participante na viagem;
+- [ ✔ ] A aplicação deve poder remover o participante da viagem;
 - [ ✔ ] A aplicação deve poder criar links;
 - [ ✔ ] A aplicação deve poder visualizar os links;
 - [ ✔ ] A aplicação deve poder criar atividades;
